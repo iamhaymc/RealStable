@@ -1,0 +1,1 @@
+from .sdembed_funcs import get_weighted_text_embeddings_sdxl
